@@ -1,0 +1,81 @@
+body{
+    text-align: center;
+    font-size: 1.3rem;
+    line-height: 1.5;
+    color: #333;
+    font-family: 'Nunito Sans', sans-serif;
+  }
+  main{
+    display: block;
+  }
+  #main{
+    background-color: #eee;
+    margin: 30px 8px;
+    padding: 15px;
+    border-radius: 5px;
+  }
+  p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+  }
+  #title {
+    font-size: 3rem;
+    text-align: center;
+    font-family: "Secular one", sans-serif;
+    margin-bottom: 0;
+  }
+  figure {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+  }
+  #img-div{
+    margin: 0 auto;
+    background-color: AliceBlue;
+    min-width: 100px;
+    max-width: 500px;
+    padding: 15px;
+  }
+  #image {
+    max-width: 100%;
+    margin: 0 auto;
+    height: auto;
+  }
+  #img-caption{
+    margin: 15px 0 5px 0;
+  }
+  figure{
+    display: block;
+  }
+  #timeline{
+    margin: 50px 0;
+  }
+  h3{
+    font-family: "Secular one", sans-serif;
+    display: block;
+    margin-block-start: 1.17em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+  }
+  ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+  }
+  blockquote {
+    font-style: italic;
+    font-family: 'Kalam', cursive;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+  }
+  a{
+    color: #477ca7
+  }
